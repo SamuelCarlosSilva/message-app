@@ -1,4 +1,10 @@
+Projeto: message-app
+
+
+# Projeto: message-app
+
 Testar projeto
+
 Utilizar comando "npm run dev" para iniciar a aplicação
 
 Realizar a requisição com a mensagem, no seguinte formato:
@@ -18,24 +24,28 @@ Body:
 
 
 
-Configuração da API node
+## Configuração da API node
 [x] Configuração da rota para salvar mensagem no banco
+
 [x] Configuração do banco de dados
 
 
 
-Configuração front end
+## Configuração front end
 [] Configuração do projeto react
 
 
 
-Configuração do serviço de mensagem Redis pubSub
+## Configuração do serviço de mensagem Redis pubSub
 [] Criar webSocket para subscribe no Redis
+
 [] Publicar mensagens
+
 [] Testar recebimento das mensagens
 
 
 
-Entrega
+## Entrega
 [] Configurar docker
+
 [x] Criar repositório para o projeto
